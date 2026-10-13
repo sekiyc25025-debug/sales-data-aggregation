@@ -1,3 +1,7 @@
+print("売上データ自動集計ツール")
+print("------------------------")
+print("処理を開始します。")
+
 import csv
 import re
 import sys
@@ -15,10 +19,6 @@ from openpyxl.utils.datetime import to_excel
 from openpyxl.chart.shapes import GraphicalProperties
 from openpyxl.drawing.line import LineProperties
 
-
-print("売上データ自動集計ツール")
-print("------------------------")
-print("処理を開始します。")
 
 
 # ============================================================

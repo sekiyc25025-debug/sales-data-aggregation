@@ -6,3 +6,7 @@ build/
 dist/
 *.exe
 __pycache__/
+
+# テスト用ファイル
+notebooks/03_file_number_prototype.ipynb
+src/main - コピー.py

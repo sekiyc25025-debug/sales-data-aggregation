@@ -6,6 +6,7 @@ build/
 dist/
 *.exe
 __pycache__/
+main.spec
 
 # テスト用ファイル
 notebooks/

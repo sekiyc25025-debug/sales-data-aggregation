@@ -34,7 +34,7 @@ sales_report_automation/
 │   ├── 発注書B②.csv
 │   └── 製品別売上レポート.xlsx
 ├── output/
-├── tests
+├── tests/
 │   └── test_data/
 │       ├── 発注書A③.xlsx
 │       ├── 発注書A_途中空行.xlsx
@@ -44,7 +44,7 @@ sales_report_automation/
 │       ├── 発注書A.csv
 │       ├── 発注書A_データ空.xlsx
 │       └── 発注書B④.csv
-├──　README.md
+├── README.md
 └── .gitignore
 ```
 
